@@ -7,9 +7,9 @@ logo: l_lecken.png
 favicon: favicon.png
 rounded: '16'
 colors:
-  DEFAULT: '#FAFAFA' # light gray
+  DEFAULT: '#000000'  # light gray
   highlight: '#f950ad' # pink
-  accent: '#262626' # almost black
+  accent: '#000000'  # almost black
   background: '#000000' # black
 tracking:
   which: none
