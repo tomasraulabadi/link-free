@@ -1,14 +1,12 @@
 ---
 key: links
 data:
-  - label: Chat with us on WhatsApp 💬
-    url: https://wa.me/5545991328593
-  - label: Follow us on Instagram 📸
-    url: https://instagram.com/mars.collective
-  - label: See our portfolio on Behance 🎨
-    url: https://www.behance.net/marscollective
-  - label: See what we're coding on Github 🧑‍💻
-    url: https://github.com/marscollective
-  - label: Like us on Facebook 👍
-    url: https://www.facebook.com/marscollective.co
+  - label: What is LSS? 🤔
+    url: https://cryptpad.fr/pad/#/2/pad/edit/cleBnggUiaAcReFvwUL7OMrt/
+  - label: Resources 📚
+    url: https://drive.google.com/drive/folders/1ilN_p7wZ3gaehWPxAu7l1bDqGpHgIplM
+  - label: Lecken Sublet System 🏠
+    url: https://docs.google.com/spreadsheets/d/1D3A2URycScpiZDkUb7OSMNmSOarQtqBkz_B5ZNM6O-4/edit?gid=0#gid=0
+  - label: LSS Tool-sharing 🛠️
+    url: https://cryptpad.fr/sheet/#/2/sheet/edit/kZkGX-WBsC-3f4XA9oNxbnoT/
 ---
